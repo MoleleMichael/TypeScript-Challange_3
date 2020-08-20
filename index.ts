@@ -13,5 +13,5 @@ function Numerical(Digits1:Number,Digits2:Number){
     return Digits1; 
   }
 }
-let sum = Numerical(1,5);
+let sum = Numerical(13,6);
 console.log(sum);
